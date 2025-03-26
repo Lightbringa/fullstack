@@ -18,7 +18,7 @@ export default function Home(){
                 <img src="/images/sun.webp" className="w-20"/>
             </div>
             <div>
-                <h3 className="font-bold text-2xl">30<sup>0</sup></h3>
+                <h3 className="font-bold text-2xl">40<sup>0</sup></h3>
                 <p className="font-bold mt-4">Sunshine</p>
                 <p>{Date()}</p>
             </div>
